@@ -1,4 +1,4 @@
-## The following resources were provisioned on AWS(us-west-1) for this project:
+## The following Resources Were Provisioned on AWS(us-west-1) For This project:
 
 - VPC and subnets(private and public): Nat gateway, Routetable, Internet gateway
 - Security groups
