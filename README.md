@@ -1,11 +1,11 @@
-The following resources were provisioned on AWS(us-west-1) for this project:
+## The following resources were provisioned on AWS(us-west-1) for this project:
 
 - VPC and subnets(private and public): Nat gateway, Routetable, Internet gateway
 - Security groups
 - Load balancer (and target groups)
 - EC2 running the application
 
-Steps To Run and view the String(Hello Greylogs!) on Your Browser
+## Steps To Run and View the String(Hello Greylogs!) on Your Browser
 
 1. Install and configure terraform.
 2. My resources are provisioned in us-west-1 region.
@@ -20,8 +20,9 @@ Steps To Run and view the String(Hello Greylogs!) on Your Browser
 11. Notice the string (Hello Greylogs! ) appears on your browser. 
 12. Run " terraform destroy " on your terminal to delete created resources.
 
+## Other Specifications
  Terraform Version: v1.0.2
-Operating System: Linux
+ Operating System: Linux
 
 
 
