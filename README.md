@@ -23,6 +23,8 @@
 ## Other Specifications
  Terraform Version: v1.0.2
  Operating System: Linux
+ 
+ 
 
 ![](/Cloud%20Architecture%20Diagram.jpg)
 
